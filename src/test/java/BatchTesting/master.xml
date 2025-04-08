@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="master">
+<suite-files>
+	<suite-file path="C:\Users\suraj\eclipse-workspace\mymaven\TestNg\src\test\java\BatchTesting\sanity.xml" />
+	<suite-file path="C:\Users\suraj\eclipse-workspace\mymaven\TestNg\src\test\java\BatchTesting\function.xml" />
+</suite-files>
+</suite>

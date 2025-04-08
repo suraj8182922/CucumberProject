@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="function">
+  <test name="function">
+    <classes>
+      <class name="BatchTesting.paymentTest"/>
+      <class name="BatchTesting.prodPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
